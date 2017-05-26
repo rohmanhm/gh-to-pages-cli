@@ -1,0 +1,40 @@
+{
+  "name": "gh-to-pages-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Convert Github Repo URL to Github Pages",
+  "license": "MIT",
+  "author": {
+    "name": "M H Rohman",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "bin": {
+    "gtp": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohmanhm/gh-to-pages-cli"
+  },
+  "keywords": [
+    "gh-to-pages-cli",
+    "gh-to-pages",
+    "gh-pages",
+    "convert",
+    "github"
+  ],
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "execa": "^0.6.3"
+  },
+  "ava": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "gh-to-pages": "^1.0.0"
+  }
+}
