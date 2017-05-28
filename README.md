@@ -1,5 +1,8 @@
 # 💫 GH-TO-PAGES-CLI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/gh-to-pages-cli.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/rohmanhm/gh-to-pages-cli.svg?branch=master)](https://travis-ci.org/rohmanhm/gh-to-pages-cli)
+
 > CLI for [gh-to-pages](https://github.com/rohmanhm/gh-to-pages)
 
 ## Install
